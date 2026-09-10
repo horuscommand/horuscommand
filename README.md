@@ -29,9 +29,17 @@
 <br/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
@@ -100,6 +108,12 @@ Private work: bots, clients, dashboards, APIs, and internal tools. Whatever the 
 <td valign="top" width="20%">
 
 **Backend**
+- Java
+- Spring / Spring Boot
+- Spring Data JPA
+- Spring Security
+- Maven
+- JUnit / Mockito
 - Node.js / Express
 - FastAPI
 - REST / GraphQL
@@ -108,16 +122,26 @@ Private work: bots, clients, dashboards, APIs, and internal tools. Whatever the 
 - MongoDB
 - Redis
 - Nginx
+- OOP
+- Data Structures
+- Design Patterns
 
 </td>
 <td valign="top" width="20%">
 
 **Frontend**
 - HTML / CSS
-- React
+- JavaScript
+- React.js
+- Hooks / Context API
+- Redux
+- Axios
+- Yup
+- Jest
+- Cypress
 - Next.js
 - Vue.js
-- Tailwind
+- Tailwind CSS
 - TypeScript
 
 </td>
@@ -151,6 +175,10 @@ Private work: bots, clients, dashboards, APIs, and internal tools. Whatever the 
 </td>
 </tr>
 </table>
+
+## Extra
+
+Algorithms · Debugging · Deployment · Problem Solving · Figma · Teamwork
 
 ## Currently
 
