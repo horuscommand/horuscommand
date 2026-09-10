@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="anubis.png" width="220" alt="Anubis" />
+<img src="logo.png" width="220" alt="Anubis" />
 
 # HORUS
 
