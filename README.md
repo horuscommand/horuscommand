@@ -4,7 +4,7 @@
 
 # HORUS
 
-`horuscommand`
+<img src="https://cdn.simpleicons.org/discord/5865F2" height="16" alt="Discord" /> `@horsucommand`
 
 <br/>
 
