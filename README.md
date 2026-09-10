@@ -4,7 +4,7 @@
 
 # HORUS
 
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="16" alt="Discord" /> **@horsucommand**
+<img src="https://img.shields.io/badge/Discord-%40horsucommand-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @horsucommand" />
 
 <br/>
 
