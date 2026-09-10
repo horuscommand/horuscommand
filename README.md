@@ -4,6 +4,8 @@
 
 # HORUS
 
+**Full Stack Developer**
+
 <img src="https://img.shields.io/badge/Discord-%40horsucommand-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @horsucommand" />
 
 <br/>
@@ -11,7 +13,10 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
@@ -19,49 +24,68 @@
 
 ## About
 
-I build bots, clients, and internal tools. Most of the work stays private.
+Full stack developer. I write the backend, the panel, and the scripts that sit in between.
 
-Go and Node.js for backends and automation. JavaScript for scripts.
+Most of the work is private: bots, clients, dashboards, and internal tools. Go and Node.js on the server. HTML, CSS, and JavaScript on the frontend.
 
 ## What I do
 
 | Area | |
 | :--- | :--- |
+| **Full Stack** | Web panels, APIs, and the glue between them |
+| **Backend** | Services, REST APIs, workers, Linux deploys |
+| **Frontend** | Dashboards, UI, client-side logic |
 | **Bot Development** | Custom clients, private bot services, account tooling |
-| **Automation** | Pipelines, schedulers, background workers |
-| **Scripting** | One-off tools, parsers, glue code |
-| **Backend** | APIs, services, Linux deployments |
+| **Automation** | Pipelines, schedulers, background jobs |
+| **Scripting** | Parsers, tooling, one-off utilities |
 
 ## Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**Languages**
+**Backend**
 - Go
-- JavaScript
 - Node.js
+- REST APIs
+- JSON / file stores
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+</td>
+<td valign="top" width="25%">
 
 **Tools**
-- Linux
 - Git
-- REST APIs
+- Linux
+- systemd
+- PowerShell
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Focus**
-- Bots
+- Full stack apps
+- Bots & clients
 - Automation
 - Private tooling
 
 </td>
 </tr>
 </table>
+
+## Currently
+
+- Building and maintaining private full stack tools
+- Backend services in Go
+- Panels and scripts in JavaScript / Node.js
 
 ## Contact
 
