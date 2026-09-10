@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111" alt="Linux" />
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
 
@@ -22,13 +21,13 @@
 
 I build bots, clients, and internal tools. Most of the work stays private.
 
-Go and Node.js for backends and automation. JavaScript for scripts and Discord bots.
+Go and Node.js for backends and automation. JavaScript for scripts.
 
 ## What I do
 
 | Area | |
 | :--- | :--- |
-| **Bot Development** | Discord bots, custom clients, account tooling |
+| **Bot Development** | Custom clients, private bot services, account tooling |
 | **Automation** | Pipelines, schedulers, background workers |
 | **Scripting** | One-off tools, parsers, glue code |
 | **Backend** | APIs, services, Linux deployments |
@@ -51,7 +50,6 @@ Go and Node.js for backends and automation. JavaScript for scripts and Discord b
 - Linux
 - Git
 - REST APIs
-- Discord API
 
 </td>
 <td valign="top" width="33%">
