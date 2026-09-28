@@ -20,6 +20,3 @@ Java · Go · Python · C# · HTML · CSS
 </div>
 
 ---
-
-- Discord: **@horsucommand**
-- GitHub: [horuscommand](https://github.com/horuscommand)
