@@ -6,7 +6,7 @@
 
 Java · Go · Python · C# · HTML · CSS
 
-<img src="https://img.shields.io/badge/Discord-%40horsucommand-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @horsucommand" />
+<img src="https://img.shields.io/badge/Discord-%40horsucommand-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord @horuscommand" />
 
 <br/>
 
